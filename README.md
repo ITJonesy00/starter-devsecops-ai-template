@@ -2,19 +2,24 @@
 
 Minimal DevSecOps and AI starter template for fullstack projects (clean architecture and best practices).
 
+➡️ First brick of my HOMELAB system
+
 ☕️ [Codeberg : starter-devsecops-ia-template](https://codeberg.org/ITJonesy00/starter-devsecops-ia-template)
 
+
 <details>
-<summary>📽 How to use it ? 
+<summary> 📽 How to use it ? 
 </summary>
 
 1. Prompts
 2. Worflow AI
 [... 🏗 ...]
+
 </details>
 
 <details>
 <summary> 🔁 Checklist </summary>
+
 
 #### 🦇 DEV.TO...✏️...
 

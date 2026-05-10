@@ -33,6 +33,10 @@ Minimal DevSecOps and AI starter template for fullstack projects (clean architec
 
 </details>
 
+## Status
+
+![Codeberg Check](https://github.com/ITJonesy00/starter-devsecops-ai-template/actions/workflows/codeberg.yml/badge.svg)
+
 ---
 
 @ITJonesy00 - 2026

@@ -23,6 +23,8 @@ Minimal DevSecOps and AI starter template for fullstack projects (best practices
 
 #### 🦇 Posts...✏️...
     
+
+- [x] 《 How I Architect My Solo AI Workflow Lab ? 》
 - [ ] art1 :《 The evolution of my local AI governance framework 》
 - [ ] art2 :《 Why Kanban becomes a resource optimization system with or without AI for single or multiple projects ? 》
 

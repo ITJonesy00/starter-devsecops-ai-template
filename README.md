@@ -10,8 +10,9 @@ Minimal DevSecOps and AI starter template for fullstack projects (best practices
 <summary> 📽 How to use it ? 
 </summary>
 
-1. Prompts  
+1. Prompts 
 2. Worflow AI
+3. Checkpoint
 
 </details>
 

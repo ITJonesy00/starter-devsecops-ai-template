@@ -19,14 +19,15 @@ Minimal DevSecOps and AI starter template for fullstack projects (best practices
 <details>
 <summary> 🔁 Checklist </summary>
 
-- [x] Blueprint "HOMELAB system"  
+- [x] Blueprint "HOMELAB system"
+- [ ] A minimal example with release-check project  
+- [ ] makefile worflow ?
 
 #### 🦇 Posts...✏️...
     
-
 - [x] 《 How I Architect My Solo AI Workflow Lab ? 》
-- [ ] art1 :《 The evolution of my local AI governance framework 》
-- [ ] art2 :《 Why Kanban becomes a resource optimization system with or without AI for single or multiple projects ? 》
+- [ ] 《 The evolution of my local AI governance framework 》
+
 
 #### CI
 

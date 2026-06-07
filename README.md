@@ -38,17 +38,17 @@ flowchart LR
 ### Components 
 
 - [x] Blueprint "HOMELAB system"
-- [ ] A minimal example with release-check project  
-- [ ] makefile worflow ?
+- [ ] Advanced diagram worflow (links with other bricks)
+- [ ] Sheet lean project monitoring
+- [ ] Makefile worflow
+- [ ] Complete repo template 
+- [x] Pipeline observability system events Codeberg (minimal)
+- [ ] A minimal example with release-check project
 
-### 🦇 Posts...✏️...
-    
+### 🦇 Posts...
+
 - [x] 《 How I Architect My Solo AI Workflow Lab ? 》
 - [ ] 《 The evolution of my local AI governance framework 》
-
-### CI
-
-- [x] Pipeline observability system events Codeberg (minimal)
 
 </details>
 

@@ -15,48 +15,19 @@ The source code, development workflow and releases are maintained on **Codeberg*
 <summary> 📽 Overview 
 </summary>
 
+- HomeLabZero Blueprint : my "Meridian" 🧭 support ➡️ global review from ideas (focus on repos, posts, ...)
 
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[📝 Prompt Design]
-    B --> C[⚙️ Workflow Execution]
-    C --> D[🔍 Checkpoint Review]
-    D --> E{✅ Validation}
+- And "Design Blueprint" : first step with more explanation... 
 
-    E -->|Approved| F[📚 Documentation]
-    F --> G[🚀 Release]
-
-    E -->|Rejected| C
-```
- 
+A document is attached to the project to report on the tasks performed (checklist, decisions made, and use of AI).
 
 </details>
-
-<details>
-<summary> 🔁 Checklist </summary>
-
-### Components 
-
-- [x] Blueprint "HOMELAB system"
-- [ ] Advanced diagram worflow (links with other bricks)
-- [ ] Sheet lean project monitoring
-- [ ] Makefile worflow
-- [ ] Complete repo template 
-- [x] Pipeline observability system events Codeberg (minimal)
-- [ ] A minimal example with release-check project
-
-### 🦇 Posts...
-
-- [x] 《 How I Architect My Solo AI Workflow Lab ? 》
-- [ ] 《 The evolution of my local AI governance framework 》
-
-</details>
+ 
 
 #### ✏️ Status actions
 
 ![Codeberg Check](https://github.com/ITJonesy00/starter-devsecops-ai-template/actions/workflows/codeberg.yml/badge.svg)
 
-> ➡️ Next step : my environment setup
 
 ---
 

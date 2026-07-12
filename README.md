@@ -1,41 +1,33 @@
 # starter-devsecops-ai-template
 
-Minimal DevSecOps and AI starter template for fullstack projects (best practices).
+> ➡️ First brick of my HOMELAB System (starter-home-zero)
 
-➡️ First brick of my HOMELAB system
+Minimal DevSecOps and AI starter template for fullstack projects.
 
+This repository is a public showcase of the project.
+
+The current objective : deliver a minimal reproducible workflow from idea to release.
+ 
+The source code, development workflow and releases are maintained on **Codeberg** : 
 ☕️ [Codeberg : starter-devsecops-ia-template](https://codeberg.org/ITJonesy00/starter-devsecops-ia-template)
 
 <details>
-<summary> 📽 How to use it ? 
+<summary> 📽 Overview 
 </summary>
 
-1. Prompts  
-2. Worflow AI
+- HomeLabZero Blueprint : my "Meridian" 🧭 support ➡️ global review from ideas (focus on repos, posts, ...)
+
+- And "Design Blueprint" : first step with more explanation... 
+
+A document is attached to the project to report on the tasks performed (checklist, decisions made, and use of AI).
 
 </details>
-
-<details>
-<summary> 🔁 Checklist </summary>
-
-#### 🦇 Posts...✏️...
-
-- [x] Blueprint "HOMELAB system"      
-- [ ] an example my second project
-- [ ] 《 Why Kanban becomes a resource optimization system with or without AI for single or multiple projects ? 》
-- [ ] 《 From AI prompts to workflow orchestration with Rust 》
-
-#### CI
-
-- [x] Pipeline observability system events Codeberg (minimal)
-
-</details>
+ 
 
 #### ✏️ Status actions
 
 ![Codeberg Check](https://github.com/ITJonesy00/starter-devsecops-ai-template/actions/workflows/codeberg.yml/badge.svg)
 
-#### ➡️ Next step : my setup environnement
 
 ---
 
